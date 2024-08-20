@@ -1,0 +1,1 @@
+Welcome to my blog - let turn on lofi music & read blogs with a relaxed mind. I enjoy developing side projects and writing some tips & solutions for what i have encountered at work. Hope you enjoy your time here!
