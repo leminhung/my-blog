@@ -17,8 +17,8 @@ const Header = () => {
                 <Logo className="fill-dark" />
               </div>
               <div className="group ml-2 text-xl font-bold transition duration-300">
-                Minhung.dev
-                <span className="block h-0.5 max-w-0 bg-black transition-all duration-500 group-hover:max-w-[100%] dark:bg-white"></span>
+                Minhung.blog
+                <span className="block h-0.5 max-w-0 bg-black transition-all duration-500 group-hover:max-w-[85%] dark:bg-white"></span>
               </div>
             </div>
             {typeof siteMetadata.headerTitle === 'string' ? (
