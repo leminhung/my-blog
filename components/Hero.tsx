@@ -1,6 +1,6 @@
 'use client'
-import { Authors, allAuthors } from 'contentlayer/generated'
 import { MDXLayoutRenderer } from 'pliny/mdx-components'
+import { Authors, allAuthors } from 'contentlayer/generated'
 import AvatarLayout from '@/layouts/AvatarLayout'
 import { coreContent } from 'pliny/utils/contentlayer'
 import TypedBios from './TypedBios'
