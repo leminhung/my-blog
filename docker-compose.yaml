@@ -1,6 +1,7 @@
 services:
   web-next-blog:
     build: .
+    image: minhhung01/web-next-blog:v1
     ports:
       - '3000:3000'
     volumes:
